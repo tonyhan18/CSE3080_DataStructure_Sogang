@@ -1,0 +1,13 @@
+﻿  SparseMatrixModified.c
+C:\Users\ourcl\source\repos\SparseMatrixModified\SparseMatrixModified\SparseMatrixModified.c(147,16): warning C4101: 'value' :참조되지 않은 지역 변수입니다.
+C:\Users\ourcl\source\repos\SparseMatrixModified\SparseMatrixModified\SparseMatrixModified.c(147,23): warning C4101: 'current_row' :참조되지 않은 지역 변수입니다.
+C:\Users\ourcl\source\repos\SparseMatrixModified\SparseMatrixModified\SparseMatrixModified.c(147,6): warning C4101: 'row' :참조되지 않은 지역 변수입니다.
+C:\Users\ourcl\source\repos\SparseMatrixModified\SparseMatrixModified\SparseMatrixModified.c(148,23): warning C4101: 'last' :참조되지 않은 지역 변수입니다.
+C:\Users\ourcl\source\repos\SparseMatrixModified\SparseMatrixModified\SparseMatrixModified.c(146,6): warning C4101: 'num_rows' :참조되지 않은 지역 변수입니다.
+C:\Users\ourcl\source\repos\SparseMatrixModified\SparseMatrixModified\SparseMatrixModified.c(146,52): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\ourcl\source\repos\SparseMatrixModified\SparseMatrixModified\SparseMatrixModified.c(147,11): warning C4101: 'col' :참조되지 않은 지역 변수입니다.
+C:\Users\ourcl\source\repos\SparseMatrixModified\SparseMatrixModified\SparseMatrixModified.c(146,41): warning C4101: 'num_heads' :참조되지 않은 지역 변수입니다.
+C:\Users\ourcl\source\repos\SparseMatrixModified\SparseMatrixModified\SparseMatrixModified.c(148,17): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\ourcl\source\repos\SparseMatrixModified\SparseMatrixModified\SparseMatrixModified.c(146,16): warning C4101: 'num_cols' :참조되지 않은 지역 변수입니다.
+C:\Users\ourcl\source\repos\SparseMatrixModified\SparseMatrixModified\SparseMatrixModified.c(181,9): warning C4101: 'num_heads' :참조되지 않은 지역 변수입니다.
+  SparseMatrixModified.vcxproj -> C:\Users\ourcl\source\repos\SparseMatrixModified\Debug\SparseMatrixModified.exe

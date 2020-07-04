@@ -1,0 +1,38 @@
+﻿  hw7_20182204.cpp
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(12,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'entry_node' 왼쪽은 무시됩니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(23,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'matrix_node' 왼쪽은 무시됩니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(30,40): error C2664: 'int scanf(const char *const ,...)': 인수 1을(를) 'int *'에서 'const char *const '(으)로 변환할 수 없습니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(30,8): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274,37): message : 'scanf' 선언을 참조하십시오.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(32,9): error C3861: 'new_node': 식별자를 찾을 수 없습니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(32,21): error C2065: 'node_tag': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(38,11): error C3861: 'new_node': 식별자를 찾을 수 없습니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(39,4): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(39,22): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(40,4): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(40,29): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(42,27): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(44,28): error C2664: 'int scanf(const char *const ,...)': 인수 1을(를) 'int *'에서 'const char *const '(으)로 변환할 수 없습니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(44,10): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274,37): message : 'scanf' 선언을 참조하십시오.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(46,19): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(47,31): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(49,11): error C3861: 'new_node': 식별자를 찾을 수 없습니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(52,4): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(53,4): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(56,17): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(59,4): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(59,30): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(62,4): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(62,24): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(63,3): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(64,17): error C2065: 'hdnode': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(71,30): error C2065: 'node': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(72,18): error C2065: 'node': 선언되지 않은 식별자입니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(75,4): error C2664: 'int printf(const char *const ,...)': 인수 1을(를) 'int'에서 'const char *const '(으)로 변환할 수 없습니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(75,24): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(948,37): message : 'printf' 선언을 참조하십시오.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(87,12): error C2660: 'mread': 함수는 0개의 인수를 사용하지 않습니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(26,16): message : 'mread' 선언을 참조하십시오.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(88,12): error C2660: 'mread': 함수는 0개의 인수를 사용하지 않습니다.
+C:\Users\ourcl\source\repos\hw7_20182204\hw7_20182204\hw7_20182204.cpp(26,16): message : 'mread' 선언을 참조하십시오.

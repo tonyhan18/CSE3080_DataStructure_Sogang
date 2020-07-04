@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\ourcl\source\repos\PostFix\PostFix\main.c(85,10): warning C4778: 'printf' : 서식 문자열 '%'이(가) 종결되지 않았습니다.
+C:\Users\ourcl\source\repos\PostFix\PostFix\main.c(100,23): warning C4013: 'getToken'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ourcl\source\repos\PostFix\PostFix\main.c(106,20): warning C4087: 'top': 'void' 매개 변수 목록을 사용하여 선언되었습니다.
+C:\Users\ourcl\source\repos\PostFix\PostFix\main.c(116,24): warning C4087: 'top': 'void' 매개 변수 목록을 사용하여 선언되었습니다.
+C:\Users\ourcl\source\repos\PostFix\PostFix\main.c(149,14): warning C4133: '함수': 'FILE *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ourcl\source\repos\PostFix\PostFix\main.c(177,18): warning C4133: '함수': 'char [9]'과(와) 'FILE *' 사이의 형식이 호환되지 않습니다.
+  PostFix.vcxproj -> C:\Users\ourcl\source\repos\PostFix\Debug\PostFix.exe
